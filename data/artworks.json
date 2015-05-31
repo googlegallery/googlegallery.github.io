@@ -1,0 +1,79 @@
+[
+  {
+    "title": "The Secret Lives of Numbers",
+    "author": "Golan Levin, Martin Wattenberg, Jonathan Feinberg, David Becker, David Elashoff, Shelly Wynecoop",
+    "url": "http://archive.turbulence.org/Works/nums/",
+    "description": "The authors conducted an exhaustive empirical study, with the aid of custom software, public search engines and powerful statistical techniques, in order to determine the relative popularity of every integer between 0 and one million. The resulting information exhibits an extraordinary variety of patterns which reflect and refract our culture, our minds, and our bodies.",
+    "tags": "google, golan Levin, martin wattenberg, jonathan feinberg, david becker, david elashoff, shelly wynecoop, the secret lives of numbers, data visualization, statistics, numbers"
+  },
+  {
+    "title": "NewsMap",
+    "author": "Marcos Weskamp, Dan Albritton",
+    "url": "http://newsmap.jp/",
+    "description": "Newsmap is an application that visually reflects the constantly changing landscape of the Google News news aggregator.",
+    "tags": "google, newsmap, marcos weskamp, dan albritton, aggregator, google news, news"
+  },
+  {
+    "title": "Google Will Eat Itself",
+    "author": "UBERMORGEN.COM, Alessandro Ludovico, Paolo Cirio",
+    "url": "http://www.gwei.org/",
+    "description": "We generate money by serving Google text advertisments on a network of hidden Websites. With this money we automatically buy Google shares. We buy Google via their own advertisment! Google eats itself - but in the end \"we\" own it!",
+    "tags": "google, google will eat itself, adsense, ad, money, advertisement, online advertisment, UBERMORGEN.COM, allesandro ludovico, paolo cirio"
+  },  
+  {
+    "title": "Postcards from Google Earth",
+    "author": "Clement Valla",
+    "url": "http://www.postcards-from-google-earth.com/",
+    "description": "I collect Google Earth images. I discovered strange moments where the illusion of a seamless representation of the Earth’s surface seems to break down. At first, I thought they were glitches, or errors in the algorithm, but looking closer I realized the situation was actually more interesting — these images are not glitches. They are the absolute logical result of the system. They are an edge condition—an anomaly within the system, a nonstandard, an outlier, even, but not an error. These jarring moments expose how Google Earth works, focusing our attention on the software. They reveal a new model of representation: not through indexical photographs but through automated data collection from a myriad of different sources constantly updated and endlessly combined to create a seamless illusion; Google Earth is a database disguised as a photographic representation. These uncanny images focus our attention on that process itself, and the network of algorithms, computers, storage systems, automated cameras, maps, pilots, engineers, photographers, surveyors and map-makers that generate them.",
+    "tags": "google, postcards from google earth, clement valla, google earth, postcards, images"
+  },
+  {
+    "title": "Google Poetics",
+    "author": "Sampsa Nuotio",
+    "url": "http://www.googlepoetics.com/",
+    "description": "Google Poetics is born when Google autocomplete suggestions are viewed as poems. Google’s algorithm offers searches after just a few keystrokes when typing in the search box, in an attempt to predict what the user wants to type. The combination of these suggestions can be funny, absurd, dadaistic - and sometimes even deeply moving.",
+    "tags": "google, google poetics, google autocomplete, autocomplete, poetry, Sampsa Nuotio"
+  },
+  {
+    "title": "Image Atlas",
+    "author": "Taryn Simon, Aaron Swartz",
+    "url": "http://www.imageatlas.org/",
+    "description": "Image Atlas investigates cultural differences and similarities by indexing top image results for given search terms across local engines throughout the world. Visitors can refine or expand their comparisons from the 57 countries currently available, and sort by Gross Domestic Product (GDP) or alphabetical order.",
+    "tags": "google, taryn simon, aaron swartz, image atlas, google images"
+  },  
+  {
+    "title": "Google Image Quiz",
+    "author": "Silvio Lorusso",
+    "url": "http://google-image-quiz.net/",
+    "description": "Google Image Quiz is a reverse search engine. See the image, guess the query.",
+    "tags": "google, google image quiz, silvio lorusso, google images, quiz, game, guessing"
+  },  
+  {
+    "title": "Google Feud",
+    "author": "Justin Hook",
+    "url": "http://www.googlefeud.com/",
+    "description": "The free game where you try to guess how Google autocompletes popular searches.",
+    "tags": "google, google feud, Justin Hook, google autocomplete, autocomplete, game, guessing, tv show"
+  }, 
+  {
+    "title": "Search By Image",
+    "author": "Sebastian Schmieg",
+    "url": "http://sebastianschmieg.com/searchbyimage/",
+    "description": "\"Search by Image\" is a series of algorithmic and experimental videos analyzing Google's image search function of the same name.",
+    "tags": "google, search by image, Sebastian Schmieg, google images, images, video, algorithmic"
+  }, 
+  {
+    "title": "The Google Book",
+    "author": "King Zog",
+    "url": "http://www.jean-boite.fr/box/google_volume_1",
+    "description": "This book contains the first Google Image for every word in the dictionary. Google, Volume 1 HAS every word in the dictionary, in order, by replaced What images. . King Zog's Felix Heyes and Ben West used the Oxford English Pocket Dictionary and Its 21.110 words as the basis for this book of photographs.",
+    "tags": "google, the google book, King Zog, book, print, google images, dictionary"
+  },   
+  {
+    "title": "I'm Google",
+    "author": "Dina Kelberman",
+    "url": "http://dinakelberman.tumblr.com/",
+    "description": "I'm Google is made by Dina Kelberman. Supported by Rhizome/Tumblr Art Grant 2013. Coding assistance by Andrew Badr...",
+    "tags": "google, dina kelberman, i'm google, google images, youtube"
+  }
+]
