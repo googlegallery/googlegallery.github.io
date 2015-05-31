@@ -125,6 +125,7 @@ app.init = function() {
         var about = $('<div class="about"></div>').appendTo('#container');
                $(about).append("<h1>About</h1>")
                        .append("<p><b>Google Gallery</b> is an online exhibition of artworks about Google. To explore the gallery, just start typing something into the search box. If you're not sure about what you're looking for, typing \"google\" will show all works in the collection.</p>")
+                       .append("<p>This exhibition was curated and developed by <a href=\"http://gianordoli.com\" target=\"_blank\">Gabriel Gianordoli.</a>")
                        .append("<h2>The Exhibition</h2>")
                        .append("<p>With more than a billion user per month, Google's ubiquitous online presence has made it into the subject of many artworks since throughout the past years. As the public view of the company changed from positive to critical, artists have responded to Google in different ways as well.</p>")
                        .append("<p>The Secret Lives of numbers, from 2002, reflects an optimistic view of the search engine and the web as a whole. Search results are used as a way to illuminate cultural aspects that would not be accessible without the contributions of millions of people searching everyday. The Newsmap uses the Google News aggregator, and also reflects this positive view of the web as an unparalleled source of knowledge.</p>")
