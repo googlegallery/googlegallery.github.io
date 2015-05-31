@@ -1,4 +1,20 @@
 [
+
+  {
+    "title": "Autocomplete Archive",
+    "author": "Gabriel Gianordoli",
+    "url": "http://autocompletearchive.com",
+    "description": "The Autocomplete Archive saves daily suggestions from Google Autocomplete, using Google.com, Google Images, and Youtube. It allows viewers to see and compare trends on 24 different languages over time.",
+    "tags": "google, autocomplete archive, autocomplete, aggregator, google images, google, youtube, trends, gabriel gianordoli, data, visualization, data visualization"
+  },
+  {
+    "title": "Autocomplete Archive 5W",
+    "author": "Gabriel Gianordoli",
+    "url": "http://autocompletearchive.com/5w",
+    "description": "The Autocomplete Archive 5W saves daily suggestions from Google Autocomplete for the words who, what, when, where, why, and how",
+    "tags": "google, autocomplete archive, autocomplete, aggregator, google, trends, gabriel gianordoli, data, visualization, data visualization, 5w, who, what, when, where, why, how"
+  },
+
   {
     "title": "The Secret Lives of Numbers",
     "author": "Golan Levin, Martin Wattenberg, Jonathan Feinberg, David Becker, David Elashoff, Shelly Wynecoop",
