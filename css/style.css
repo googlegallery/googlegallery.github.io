@@ -1,13 +1,24 @@
+* {
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+  box-sizing: border-box;         /* Opera/IE 8+ */;
+}
+
 body{
 	font-family: arial,sans-serif;	
+	width: 100%;
+	min-height: 100%;
 }
 
 div#header{
 	text-align: center;
+	padding: 10px;
+	width: 100%;
 }
 
 	div#header img#logo{
 		padding-top: 80px;
+		max-width: 100%;
 	}
 
 	.ui-autocomplete{
@@ -21,9 +32,10 @@ div#header{
 		font-size: 16px !important;
 		font-family: arial,sans-serif !important;
 		line-height: 1.2em !important;
-		height: 1.2em !important;
+		height: 1.6em !important;
 		width: 480px;
 		padding: 5px 10px !important;
+		max-width: 100%;
 	}	
 
 	div#header button{
@@ -54,8 +66,9 @@ div#container{
 }
 
 	div#container div.result{
-		padding: 10px 0;
+		padding: 10px;
 		width: 500px;
+		max-width: 100%;
 		display: block;
 		text-align: left;
 		margin: 0 auto;
@@ -101,12 +114,17 @@ div#container{
 		}
 
 	div#container div.about{
-		padding: 10px 0;
+		padding: 10px;
 		width: 500px;
+		max-width: 100%;
 		display: block;
 		text-align: left;
 		margin: 0 auto;
 		font-size: 13px;
 		line-height: 1.4;
 		color: #545454;	
-	}		
+	}
+
+@media screen and (max-width: 750px) {
+
+}	
